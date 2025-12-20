@@ -24,7 +24,7 @@ I enjoy building apps that solve real problems, learning fast, and exploring tec
 - Low-code / no-code solutions for real clients (Google Apps Script, AppSheet, Google Workspace)  
 - Explore AI possibilities and aim for career growth in ambitious development teams
 
-### 🌱 Current focus
+### Current focus
 - Strengthening **Java** (Spring, JDBC, JUnit, Maven/Gradle)
 - Exploring AI & ML basics
 - Growing through real projects and team collaboration

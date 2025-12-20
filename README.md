@@ -14,3 +14,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Mariia Stepanova — a Software Engineering graduate (Junior Bachelor) and aspiring Java developer.  
+I enjoy building apps that solve real problems, learning fast, and exploring tech possibilities like AI, VR/AR, and mobile development.
+
+### 💻 What I do
+- Develop Android & desktop apps (Java, C#)   
+- Work with relational and cloud databases  
+- Low-code / no-code solutions for real clients (Google Apps Script, AppSheet, Google Workspace)  
+- Explore AI possibilities and aim for career growth in ambitious development teams
+
+### 🌱 Current focus
+- Strengthening **Java** (Spring, JDBC, JUnit, Maven/Gradle)
+- Exploring AI & ML basics
+- Growing through real projects and team collaboration
+
+### Fun facts
+- Finished art school with honors 🎨  
+- Used to fear robots… now I build apps 🤖  
+- Huge anime/manhwa fan   
+- Tea > coffee (with or without milk)  
+
+### 📫 Connect with me
+- Email: stepanovamasha70@gmail.com  
+- LinkedIn: [Mariia Stepanova](#)
+

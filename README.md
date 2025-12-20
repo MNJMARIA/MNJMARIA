@@ -37,5 +37,5 @@ I enjoy building apps that solve real problems, learning fast, and exploring tec
 
 ### 📫 Connect with me
 - Email: stepanovamasha70@gmail.com  
-- LinkedIn: [Mariia Stepanova](#)
+- LinkedIn: [Mariia Stepanova](https://www.linkedin.com/in/mariiastepanova)
 

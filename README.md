@@ -32,7 +32,6 @@ I enjoy building apps that solve real problems, learning fast, and exploring tec
 ### Fun facts
 - Finished art school with honors 🎨  
 - Used to fear robots… now I build apps 🤖  
-- Huge anime/manhwa fan   
 - Tea > coffee (with or without milk)  
 
 ### 📫 Connect with me

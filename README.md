@@ -20,7 +20,7 @@ I enjoy building apps that solve real problems, learning fast, and exploring tec
 
 ### 💻 What I do
 - Develop Android & desktop apps (Java, C#)   
-- Work with relational and cloud databases  
+- Work with relational and cloud databases (Oracle, Firebase, Google Sheets / AppSheet) 
 - Low-code / no-code solutions for real clients (Google Apps Script, AppSheet, Google Workspace)  
 - Explore AI possibilities and aim for career growth in ambitious development teams
 

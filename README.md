@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Mariia Stepanova — a Software Engineering graduate (Junior Bachelor) and aspiring Java developer.  
+I'm Mariia Stepanova — a Software Engineering student (Bachelor) and aspiring Java developer.  
 I enjoy building apps that solve real problems, learning fast, and exploring tech possibilities like AI, VR/AR, and mobile development.
 
 ### 💻 What I do

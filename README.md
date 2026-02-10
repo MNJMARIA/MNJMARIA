@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 I'm Mariia — a Software Engineering student (Bachelor) and aspiring Java developer.  
-I enjoy building apps that solve real problems, learning fast, and exploring tech possibilities like AI, VR/AR, and mobile development.
+I enjoy building apps that solve real problems, learning fast, and exploring tech possibilities like AI and mobile development.
 
 ### 💻 What I do
 - Develop Android & desktop apps (Java, C#)   
@@ -25,14 +25,14 @@ I enjoy building apps that solve real problems, learning fast, and exploring tec
 - Explore AI possibilities and aim for career growth in ambitious development teams
 
 ### Current focus
-- Strengthening **Java** (Spring, JDBC, JUnit, Maven/Gradle)
 - Exploring AI & ML basics
 - Growing through real projects and team collaboration
+<!--- Strengthening **Java** (Spring, JDBC, JUnit, Maven/Gradle) -->
 
-### Fun facts
+<!--### Fun facts
 - Finished art school with honors 🎨  
 - Used to fear robots… now I build apps 🤖  
-- Tea > coffee (with or without milk)  
+- Tea > coffee (with or without milk)  -->
 
 ### 📫 Connect with me
 - Email: stepanovamasha70@gmail.com  
